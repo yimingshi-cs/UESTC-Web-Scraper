@@ -119,5 +119,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Author: Yiming Shi
 - Email: yimingshi666@gmail.com
-- GitHub: [My GitHub Profile](https://github.com/SKDDJ)
+- GitHub: [My GitHub Profile](https://github.com/yimingshi-cs)
 - Website: [My Website](https://academic.shiym.top)
